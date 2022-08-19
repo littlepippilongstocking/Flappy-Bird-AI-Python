@@ -1,6 +1,7 @@
 """
 Dilyana Koleva, August 2022
 The classic flappy bird game made with Python and PyGame
+The move method should be optimized as it's not working as it is supposed to
 """
 import pygame
 import neat
